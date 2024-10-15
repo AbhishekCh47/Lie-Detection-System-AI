@@ -36,7 +36,7 @@ The Lie Detection System is an AI project that aims to determine the truth value
 
 ## Code Structure
 ### Main Classes
-- **Network**: Represents the neural network and includes methods for feedforward propagation, scoring, and accuracy calculation.
+- **Network**: Represents the neural network and includes methods for feedforward propagation, scoring, and accuracy calculation
 - **NNGeneticAlgo**: Implements the genetic algorithm for optimizing the neural network.
 
 ### Main Functions
